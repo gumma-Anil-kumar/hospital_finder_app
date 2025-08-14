@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Government General Hospital Guntur",
+    "schemes": ["Ayushman Bharat", "Aarogyasri"],
+    "specialties": ["Cardiology", "Emergency", "Pediatrics"],
+    "rating": 4.2
+  },
+  {
+    "name": "Osmania General Hospital",
+    "schemes": ["Ayushman Bharat", "Employee Health Scheme"],
+    "specialties": ["Neurology", "Oncology"],
+    "rating": 4.0
+  }
+]

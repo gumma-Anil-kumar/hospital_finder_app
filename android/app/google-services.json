@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "164773803652",
+    "project_id": "smart-hospital-finder-47a07",
+    "storage_bucket": "smart-hospital-finder-47a07.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164773803652:android:d87c33781442a155ceb4d1",
+        "android_client_info": {
+          "package_name": "com.example.hospital_finder_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCozkUWsoMO1UaQBSeOsFyk7n5tQGASWNU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
